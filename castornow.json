@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "castor-order-booking-bot",
+  "private_key_id": "7ddc195d2ce6c290e5ef9c0a40dd014f1d150e6d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCLF6Ozbxn9R/YJ\ng0rI0sQdbSDttp81jTP37cH1ZSs2aWi04VUOAVmMECkCdnqkFc0OSaPH5je+aolE\ncsZzxlPZRv45bIhBChzhRRqZ34W6MUdZCyR61fjKbm9cWjsiSH8OubI04wYwvpjB\n/ZLOnoUhPj3yISDrdxVlL1Vaivy5q3vxj2G/rzJyRgAz0bLardIEShfSnj0AW77z\nnhgyv97Ivo00gCc2EAVwn3zV/KbQ0Mx43eVJs6pITjgRM/9x0NNETX4yQRgy6gZF\nXZQrp9Xjtmhr8/Sg47UwjhnUOT+PtpIyP8kK8BjGN5JahaOkvCUNKNAuvE6KgbxB\nzBc9pRDHAgMBAAECggEAGbU/031Yb2Dqj62Nl/qkts+hw236lTpI/a0bKVEOoJrw\n+GWhg9oqA+JEwijF2CgTY22m8N6TNQWZ42XXWjSw8LrXaCOwN104I0bTeNdAbz6G\ncmXF01JTDo9E0+v1fAusODuIPZAsZ7wCnfBRPxE7h/5qEqOe4wZ6lN4fx4Fi3qoW\nlDHQgYDN1hy71zNb51DGOPi5jx4t2gdVVr2QzDoNt5bJQxfqZQKrsSh7zMKmjQNc\n5T0zLfODroA+y/QTyf58Kf+glrFyxCH1jTrsZwukICwSNjbaU78iRkyL1tUCnrY/\n/AtNObLyBqxTZ94776cgKoC5+kyw8LR01pbFoH3VCQKBgQDAx184M2q8t98ta7Nm\nejFXj2CkJ6n9uWAnI138INDyqDoKYKZomzbm/TT+iYownZnOWkKqnWNnkKAsW3RR\nFltWm0PDMHBRC9qzV7g6RCD5Lgg++0Z2nYdXcUfI75uN9k+DeYtsAkxnSY8nnS12\nsee8KwVCTQw0bt6z3MD7TQL89QKBgQC4tQ2ta1rQFECys4IXp1XVXFreVgVTCJG5\nNEKSLEp6OHkqQZOBQOYqRL9pdHy0javo3emF4w7QvWM+vsEv41NfcUTaFsJFJKKd\nnOyEqOenWXeVv1wCDDTSzQ7bSy8cBDJwgPeg1ScR7k+RDVMF36NyAAZrxS9IgrNW\nRhGXwqgBSwKBgH4e8ZDXMrGcqgoROCGHN9jNGLDMsk4ohVuVq9tTrN/UZ4R6juRJ\nB7Y/WfhdC2ea9BEoxAzTQ0FyQRhEDOkv8znKAp8khZbAZqiGbyTPhbMABq0Nv5/C\nl9UBa7Ft8RsDVinxzuEu78VzPpDwJ9pLsgxNKPejaKS1FEYf2rGORLIxAoGAbEDg\n1UTYIp/cE2AV3Nsb+UJ5l1l/IV0iWxN/+L+wntU+Xj+0vcpVm2xTavD0rbVijcaR\nuQCMjFaTNhEClJh9IrD2E4PHNFL2Y722+UEtE+3hoohW2nRg+TNpg6ka4SaskTdk\n6oRCs8WiKHdQs16RIp1VJhCZV7wSc3v5j6JsaOUCgYAQmrjAzh+s4hsiISYV+t8N\nAafLzNhHV1a7nw6qcvyJryqX6CKdgoRV4wmQ9/0hI1qWBN9f4L1eZL+QbKz8eQKt\nDaK9BCXqASSzOXoj1/vdFiAX85zBvSrJDTY/LR80slRVdceVAfFKbpIV9L/vpnWl\n0lx37Wy6ASi8jpsma2oIcg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-iq340@castor-order-booking-bot.iam.gserviceaccount.com",
+  "client_id": "101366829150971606207",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-iq340%40castor-order-booking-bot.iam.gserviceaccount.com"
+}
